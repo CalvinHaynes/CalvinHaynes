@@ -12,7 +12,7 @@
 
 :hankey: **Get in touch**
 
-[![blog.cavinhaynes.top](https://img.shields.io/badge/calvinhaynes.top-pink)](https://blog.calvinhaynes.top/)
+[![personal site](https://img.shields.io/badge/calvinhaynes.top-pink)](https://blog.calvinhaynes.top/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/CalvinHaynes)
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/CalvinHaynes412/)
 [![163邮箱](https://img.shields.io/badge/网易163-blue?logo=Minutemailer)](https://mail.163.com/)
