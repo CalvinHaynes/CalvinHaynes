@@ -2,9 +2,9 @@
 
 
 👨‍🎓 **Personal profile**
-- 🔭 I’m a student in JLU majoring in Communication Engineering
-- 🌱 I’m currently learning Computer Science
-- 💬 Ask me about Java/C/Python/STM32/Arduino. although these are not my proficient fields,I can give some little tips to help 
+- 🔭 I’m a graduate of JLU majoring in Communication Engineering
+- 🌱 I’m currently learning  knowledge about Computer Science which is my passion
+- 💬 Ask me about Java/C/Python/STM32/Arduino. Although these are not my proficient fields, I can give some little tips to help 
 
 ✨ **Github stats**  
 
