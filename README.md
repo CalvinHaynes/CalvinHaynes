@@ -3,8 +3,9 @@
 
 👨‍🎓 **Personal profile**
 - 🔭 I’m a graduate of JLU majoring in Communication Engineering
-- 🌱 I’m currently learning  knowledge about Computer Science which is my passion
-- 💬 Ask me about Java/C/Python/STM32/Arduino. Although these are not my proficient fields, I can give some little tips to help 
+- ✨ Maybe the 24fall CUHK Msc in Information Engineering
+- 🌱 I’m currently learning  knowledge about Computer System which is my passion(but actually to be a backend developer in the future with high probability because of living.)
+- 💬 Ask me about Java/C/Python/STM32/Arduino. Although these are not my proficient fields, I can give you some tips to help 
 
 ✨ **Github stats**  
 
@@ -12,7 +13,7 @@
 
 :hankey: **Get in touch**
 
-[![personal site](https://img.shields.io/badge/个人博客站-pink)](https://blog.calvinhaynes.top/)
+[![personal blog site](https://img.shields.io/badge/个人博客站-pink)](https://blog.calvinhaynes.top/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/CalvinHaynes)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/calvinhaynes)
 
