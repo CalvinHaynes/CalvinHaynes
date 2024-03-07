@@ -3,7 +3,7 @@
 
 👨‍🎓 **Personal profile**
 - 🔭 I’m a graduate of JLU majoring in Communication Engineering
-- ✨ Maybe the 24fall CUHK Msc in Information Engineering
+- 😏 Maybe the 24fall CUHK Msc in Information Engineering
 - 🌱 I’m currently learning  knowledge about Computer System which is my passion(but actually to be a backend developer in the future with high probability because of living.)
 - 💬 Ask me about Java/C/Python/STM32/Arduino. Although these are not my proficient fields, I can give you some tips to help 
 
