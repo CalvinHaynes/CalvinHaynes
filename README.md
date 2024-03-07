@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yoo! This is Calvin Haynes 👋
 
 
 👨‍🎓 **Personal profile**
