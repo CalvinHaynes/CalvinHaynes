@@ -10,7 +10,7 @@
 - 😏 24fall CUHK Msc in Information Engineering(admitted！happy ending!）
 - 🌱 I’m currently interested in Computer System
 (but due to the necessities of survival, it's highly probable that I will become a backend system developer in the future.
-After admitted in MscIE in CUHK, maybe I have the opportunity to pursue Phd，life is indefinite!)
+After admitted in MscIE in CUHK, maybe I have the opportunity to pursue Phd, who knows (^ω^), life is indefinite!)
 - 💬 Ask me about Java/C/Python/STM32/Arduino. Although these are not my proficient fields, I can give you some tips to help 
 
 ## 🚀My Tech Stack
