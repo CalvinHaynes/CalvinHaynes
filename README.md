@@ -1,6 +1,5 @@
 # Yoo! This is Calvin Haynes 👋
 
-[![personal blog site](https://img.shields.io/badge/个人博客站-pink)](https://blog.calvinhaynes.top/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/CalvinHaynes)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/calvinhaynes)
 
